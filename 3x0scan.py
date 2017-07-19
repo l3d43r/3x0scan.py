@@ -20,7 +20,7 @@ def main():
         info=info2(ip,port)
         if(info):
             print("[+]" + ip + "   --->    " + info)
-            os.system(" say Scanning , Found , open port ")
+            #os.system(" say Scanning , Found , open port ")
         #else:
            # print( "[+] Nothing open here -- > " + ip)
 
